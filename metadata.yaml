@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37457'
     url: http://www.gutenberg.org/2009/agents/37457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35099#The-Color-LineA-Brief-in-Behalf-of-the-Unborn
 gutenberg_issued: '2011-01-28'
 gutenberg_type: Text
 identifiers:
